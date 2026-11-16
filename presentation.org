@@ -3,7 +3,7 @@
 :END:
 # Copyright 2026, Ihor Radchenko
 # SPDX-License-Identifier: CC-BY-4.0
-#+TITLE: The Future of Org
+#+TITLE: Personal task management under stress (with Org mode)
 #+AUTHOR: Ihor Radchenko (yantar92)
 #+OPTIONS: H:2 toc:t num:t
 #+date: EmacsConf 2026
