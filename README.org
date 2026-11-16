@@ -1,0 +1,24 @@
+* Personal task management under stress (with Org mode)
+
+This repository contains presentation for a talk presented at
+EmacsConf2026: https://emacsconf.org/2026/talks/tasks/
+
+Ever had tasks piling up at work, then family matters on top, all with
+critical deadlines you cannot miss?  Such moments are often the entry
+point to exploring GTD, P.A.R.A., pomodoro, time blocking, time
+budgeting, and whatnot.  However, fancy personal task management
+techniques often sound logical and appealing, but quickly fall apart
+in real life.  Worse, they make your life more difficult because they
+encourage recording *even more tasks* that will never be completed and
+only pile up, diluting what really matters.  The truth is -- you
+cannot complete every possible task and explore every possible idea in
+your life. Not even in the short term, because emergencies do
+happen. To be useful, personal task management should handle failures,
+emergencies, and a plain lack of time and energy.  In this talk, I
+will introduce the key principles that took me years of task
+management to discover; and that I wish I had known from the
+beginning.  I will also show the detailed workflows I built for
+myself, with Org mode, for Org mode maintenance and for my real life
+job.  This is not a package, but ideas, and workflows that can be
+personalized as much as anything in Emacs.
+
