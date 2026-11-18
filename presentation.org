@@ -356,6 +356,9 @@ file:outdated-agenda.png
 
 * Out of the vicious loop
 ** Managing tasks in the long run: 4 rules
+:PROPERTIES:
+:CUSTOM_ID: rules
+:END:
 
 - *Use your system* -- put all the tasks and notes there\\
   {{{script(Do not spread things across email/paper/computer/own head)}}}
@@ -629,6 +632,17 @@ You must have a plan when task list blows up and gets out of control
 
 \centering
 With the approaches I introduced earlier, recovery works naturally
+
+* Summary
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
+** Summary :B_againframe:
+:PROPERTIES:
+:BEAMER_env: againframe
+:BEAMER_ref: #rules
+:BEAMER_act:
+:END:
 
 * Thank you
 :PROPERTIES:
