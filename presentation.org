@@ -40,7 +40,7 @@
 
 - I maintain Org mode during my spare time (about 8 hours weekly)
 - Org mode mailing list receives \gt115 emails *every week*
-- About 15 bug reports every week
+- About 15 bug reports, patches, or requests every week
 - On top of the mailing list, monitor Org-mode related discussion on
   emacs-devel and forums like reddit and Mastodon
 - I still have my daily job and try contributing to other packages
