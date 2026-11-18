@@ -669,4 +669,6 @@ With the approaches I introduced earlier, recovery works naturally
   https://emacsconf.org/2026/talks/tasks/
 - Emacs Config:\\
   https://github.com/yantar92/emacs-config
+- These slides:\\
+  https://github.com/yantar92/emacsconf-2026-tasks
 
