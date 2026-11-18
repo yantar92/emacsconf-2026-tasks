@@ -367,19 +367,6 @@ file:outdated-agenda.png
   {{{script(No system can every cover all possible life events. Accept that *things will go wrong*)}}}
 
 * Rule 1: Be consistent where to write down tasks
-** Use your system consistently
-
-- If you manage tasks in Org, do it in Org
-  - Not in your head
-  - Not in email inbox + Org
-  - Not spread across notebooks, computer, etc
-- At least, computer-related tasks should be managed in the same way
-- This is especially critical for social media that is designed
-  to be attention sunk [fn::{{{tiny(Inspired by Cal Newport\, "Digital Minimalism: Choosing a Focused Life in a Noisy World")}}}]
-- Ideally, task management should be the first place to reach out
-  when not sure what to do next
-- This minimizes distractions
-
 ** Use your system: org-capture from computer
 
 #+attr_latex: :width 0.9\linewidth
@@ -435,6 +422,19 @@ attachment:inbox.png
 \centering
 Record on the go as well: Android \rightarrow Org
 
+
+** Use your system consistently
+
+- If you manage tasks in Org, do it in Org
+  - Not in your head
+  - Not in email inbox + Org
+  - Not spread across notebooks, computer, etc
+- At least, computer-related tasks should be managed in the same way
+- This is especially critical for social media that is designed
+  to be attention sunk [fn::{{{tiny(Inspired by Cal Newport\, "Digital Minimalism: Choosing a Focused Life in a Noisy World")}}}]
+- Ideally, task management should be the first place to reach out
+  when not sure what to do next
+- This minimizes distractions
 
 * Rule 2: Make it a habit
 
