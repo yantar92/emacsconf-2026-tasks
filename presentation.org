@@ -102,9 +102,10 @@ Are things out of control? Or not yet?
 :END:
 
 - Getting things done
-- Pomodoro
-- P.A.R.A.
 - Inbox zero
+- Pomodoro
+- Kanban board
+- P.A.R.A.
 - Eisenhower matrix
 - \dots
 
@@ -409,6 +410,19 @@ attachment:web-capture.png
 \centering
 Social media should be no different - no need to keep 100s tabs open
 
+
+** Use your system: org-capture from RSS feeds (elfeed) :ATTACH:
+
+#+attr_latex: :width 0.8\linewidth
+attachment:elfeed-capture.png
+
+*** :B_hblock:
+:PROPERTIES:
+:BEAMER_env: hblock
+:END:
+
+\centering
+Same for RSS feeds - research papers, blogs, videos...
 
 ** Use your system: org-capture from mobile (on the go)
 
